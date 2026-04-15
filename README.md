@@ -1,42 +1,19 @@
-<!-- 🔥 HEADER (Binary Hacker Style) -->
-<h1 align="center">⚡ WELCOME TO MY DIGITAL WORLD ⚡</h1>
-
+<!-- 🟢 MATRIX BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub&center=true&width=500&height=30">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&section=header&text=GAMAL%20RAAFAT&fontSize=40&fontColor=00ff00&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- ⚡ GLITCH / TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Gamal+Raafat&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Matrix;AI+%7C+IoT+Engineer;Full+Stack+Developer;Building+Smart+Systems;Turning+Ideas+Into+Reality&center=true&width=600&height=50&color=00ff00">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer&center=true&width=500&height=30">
-</p>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT+Engineer&center=true&width=500&height=30">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer&center=true&width=500&height=30">
-</p>
-
-
-
-##  About Me
-```diff
-Languages: Python, Java, PHP, c, c++, 
-Web: HTML, CSS, JavaScript
-AI: NLP, Speech Recognition
-IoT: Arduino, Raspberry Pi
-
-
-
-Phone: 01002350377
-Status: Available for collaboration 
+#  WHO AM I
 
 ```diff
-+ I build real-world systems using AI & IoT
-+ Passionate about Smart Home Automation
-+ Turning ideas into powerful tech solutions
-
++ Name: Gamal Raafat
++ Role: AI & IoT Developer
++ Mission: Build Smart Systems that change the future
++ Mindset: Code. Build. Dominate.
