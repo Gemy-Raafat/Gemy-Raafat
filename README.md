@@ -1,17 +1,15 @@
-<!-- 🔥 Binary Background -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub&center=true&width=500&height=30">
 </p>
 
-<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub;I'm+Gamal+Raafat;AI+Developer;IoT+Engineer;Full+Stack+Developer;Building+Smart+Systems&center=true&width=600&height=50&duration=3000&pause=1000&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Gamal+Raafat&center=true&width=500&height=30">
 </p>
 
----
-
-<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer&center=true&width=500&height=30">
+</p>
 
 <p align="center">
-I build smart systems using AI, IoT, and Web Technologies 🚀  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT+Engineer&center=true&width=500&height=30">
 </p>
