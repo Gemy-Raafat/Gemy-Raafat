@@ -1,55 +1,44 @@
-<!-- 🔥 Binary Style Background (Fake باستخدام صورة ثابتة) -->
-<p align="center">
-  <img src="https://i.imgur.com/8aP6pQK.png" width="100%" />
-</p>
+<!-- 🔥 HEADER (Binary Hacker Style) -->
+<h1 align="center">⚡ WELCOME TO MY DIGITAL WORLD ⚡</h1>
 
-<!-- 🔥 Typing Lines (سطر تحت سطر بدون مسح واضح) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub&center=true&width=500&height=30&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub&center=true&width=500&height=30">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Gamal+Raafat&center=true&width=500&height=30&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Gamal+Raafat&center=true&width=500&height=30">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer&center=true&width=500&height=30&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer&center=true&width=500&height=30">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT+Engineer&center=true&width=500&height=30&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT+Engineer&center=true&width=500&height=30">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer&center=true&width=500&height=30&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer&center=true&width=500&height=30">
 </p>
 
----
 
-<h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-I build smart systems using AI, IoT, and Web Technologies 🚀  
-</p>
+##  About Me
 
----
+```diff
++ I build real-world systems using AI & IoT
++ Passionate about Smart Home Automation
++ Turning ideas into powerful tech solutions
 
-## 🚀 Skills
-- Python 🐍  
-- Java ☕  
-- PHP 💻  
-- AI & NLP 🧠  
-- IoT (Arduino, Raspberry Pi) 🔌  
+Languages: Python, Java, PHP
+Web: HTML, CSS, JavaScript
+AI: NLP, Speech Recognition
+IoT: Arduino, Raspberry Pi
 
----
 
-## 📌 Projects
-- Smart Home System 🏠  
-- AI Robot (Head + Arm + Plug) 🤖  
-- E-commerce Website 🛒  
-- Java LMS System 📚  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"> </p>
 
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"> </p>
 
-## 📫 Contact
-📱 01207807173  
+Phone: 01207807173
+Status: Available for collaboration 
