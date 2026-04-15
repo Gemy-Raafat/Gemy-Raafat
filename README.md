@@ -25,11 +25,6 @@
 
 ##  About Me
 
-```diff
-+ I build real-world systems using AI & IoT
-+ Passionate about Smart Home Automation
-+ Turning ideas into powerful tech solutions
-
 Languages: Python, Java, PHP
 Web: HTML, CSS, JavaScript
 AI: NLP, Speech Recognition
@@ -42,3 +37,9 @@ IoT: Arduino, Raspberry Pi
 
 Phone: 01207807173
 Status: Available for collaboration 
+
+```diff
++ I build real-world systems using AI & IoT
++ Passionate about Smart Home Automation
++ Turning ideas into powerful tech solutions
+
