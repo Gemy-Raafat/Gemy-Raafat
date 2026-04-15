@@ -24,18 +24,15 @@
 
 
 ##  About Me
-
-Languages: Python, Java, PHP
+```diff
+Languages: Python, Java, PHP, c, c++, 
 Web: HTML, CSS, JavaScript
 AI: NLP, Speech Recognition
 IoT: Arduino, Raspberry Pi
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"> </p>
-
-Phone: 01207807173
+Phone: 01002350377
 Status: Available for collaboration 
 
 ```diff
