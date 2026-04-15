@@ -1,56 +1,20 @@
-# 👋 Welcome to my GitHub!
+<h1 align="center">🔥 Welcome To My GitHub 🔥</h1>
 
-Hi there! I'm Gamal   
- Passionate about Technology, AI & Networking  
+<h3 align="center">I'm Gamal Raafat 👨‍💻</h3>
 
----
-
-##  About Me
--  IT Student
--  Working on AI & IoT Projects
--  Interested in Networking & Cyber Security
+<p align="center">
+ AI Developer | IoT Engineer | Full Stack Developer  
+</p>
 
 ---
 
-##  Skills
--  HTML, CSS, JavaScript
--  Python
--  Java
--  Networking (CCNA)
+## Hey there!
+Welcome to my profile ❤️  
+Here you will find my projects in AI, Smart Systems, and Web Development.
+
+ I don't just code... I build real systems.
 
 ---
-
-##  Projects
--  Smart Home System (AI + IoT)
--  E-commerce Website
--  Java LMS System
-- java Car Rental System
-- qutionBank website
-- city website
--  
-
----
-
-##  Contact Me
--  Phone: 01002350377
--  Email: gamalraafat521@gmail.com
-
----
-
- Thanks for visiting my profile!
-
-
-<!--
-**Gemy-Raafat/Gemy-Raafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub;AI+Developer;IoT+Engineer;Full+Stack+Developer&center=true&width=500&height=50">
+</p>
